@@ -1,3 +1,7 @@
 en_wiki/
 WestburyLab/
 wikiextractor/
+text/
+wiki/
+.ipynb_checkpoints/
+enwiki-*
